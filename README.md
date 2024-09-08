@@ -1,0 +1,1 @@
+# Device-registration-manger-by-QR-code-
